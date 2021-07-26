@@ -1,0 +1,22 @@
+= Sound File Index
+
+[options="header"]
+|====
+| Index | Id | Name | Description
+| 0001 | 2275307 | Helheim 1_Boss Loop 1_001.wav |
+| 0002 | 3794402 | SurtPain2.wav |
+| 0003 | 4447673 | josh_jump2.wav |
+| 0004 | 4628403 | StillerTalk2.wav |
+| 0005 | 4955136 | WingFlap3.wav |
+| 0006 | 5167155 | AutoShotgunFire4.wav |
+| 0007 | 6476155 | hannah_pain.wav |
+| 0008 | 6585237 | Vanaheim 1_Main Loop 1_001.wav |
+| 0009 | 8400557 | AvoiderBomb1.wav |
+| 0010 | 8438820 | PistolReload2.wav |
+| 0021 | 14531845 | feedback.wav | Death sound loop
+| 0085 | ???? | ???? | Asgard BGM Loop
+| 0109 | 99006444 | MenuMusic.wav | Menu BGM loop
+| 0143 | 123764272 | Shop Theme.wav | Shop BGM loop
+| 0444 | 420690720 | UCastSnap.wav | Celestial Drumroll snap
+| 1088 | 1031157058 | BPM Idea 13 - Blacksmith Theme .wav | Blacksmith BGM loop
+|====

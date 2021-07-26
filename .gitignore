@@ -1,0 +1,8 @@
+/target
+/audio/*.wem
+/bin
+/out
+/node_modules
+contents.txt
+parsed_contents.txt
+/mod

@@ -1,0 +1,1 @@
+"C:\repos\mpm_mods-per-minute\mod/BPM/Content/WwiseAudio/Windows/Main.bnk" "../../../BPM/Content/WwiseAudio/Windows/Main.bnk"
